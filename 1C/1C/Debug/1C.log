@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Artem\source\repos\1C\1C\Source.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem\source\repos\1C\1C\Source.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+  1C.vcxproj -> C:\Users\Artem\source\repos\1C\Debug\1C.exe
